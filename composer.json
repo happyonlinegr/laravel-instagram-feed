@@ -1,0 +1,20 @@
+{
+    "name": "happyonlinegr/laravel-instagram-feed",
+    "description": "A demo package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "HappyOnlineGr",
+        "email": "info@happyonline.gr"
+      }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HappyOnlineGr\\InstagramFeed\\": "src"
+        }
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6.0"
+    }
+}
